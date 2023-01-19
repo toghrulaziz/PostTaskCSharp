@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\bin\Debug\net6.0\PostTaskCSharp.exe
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\bin\Debug\net6.0\PostTaskCSharp.deps.json
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\bin\Debug\net6.0\PostTaskCSharp.runtimeconfig.json
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\bin\Debug\net6.0\PostTaskCSharp.dll
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\bin\Debug\net6.0\PostTaskCSharp.pdb
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.dll
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\refint\PostTaskCSharp.dll
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.pdb
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\PostTaskCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\Post\PostTaskCSharp\PostTaskCSharp\obj\Debug\net6.0\ref\PostTaskCSharp.dll
